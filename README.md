@@ -18,7 +18,7 @@ yarn serve
 
 #### 运行截图
 
-![](https://github.com/weiyao-mumu/vue-musicDome-pc/blob/master/src/assets/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png)
+![](https://cdn.nlark.com/yuque/0/2020/png/8430411/1609166449831-2bdadbe3-6bf5-4152-8ecb-f61856cef011.png?x-oss-process=image%2Fresize%2Cw_1472)
 
 
 
